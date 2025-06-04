@@ -1,0 +1,29 @@
+{
+  "objects": [
+    {
+      "type": "threat-actor",
+      "id": "ta001",
+      "name": "Fancy Bear"
+    },
+    {
+      "type": "threat-actor",
+      "id": "ta002",
+      "name": "Cozy Bear"
+    },
+    {
+      "type": "malware",
+      "id": "m001",
+      "name": "NotPetya"
+    },
+    {
+      "type": "threat-actor",
+      "id": "ta003",
+      "name": "Lazarus Group"
+    },
+    {
+      "type": "threat-actor",
+      "id": "ta004",
+      "name": "Fancy Bear"
+    }
+  ]
+}

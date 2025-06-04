@@ -1,0 +1,14 @@
+[
+ {
+  "id": "ta001",
+  "threat actor": "Fancy Bear"
+ },
+ {
+  "id": "ta002",
+  "threat actor": "Cozy Bear"
+ },
+ {
+  "id": "ta003",
+  "threat actor": "Lazarus Group"
+ }
+]
